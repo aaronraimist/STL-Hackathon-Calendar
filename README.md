@@ -7,4 +7,4 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 
 | Hackathon                                               | Date                  | Hashtag               |
 | ------------------------------------------------------- | --------------------- | --------------------- |
-| CodeDay STL (Not confirmed)                             | 2014-11-08            | #CodeDay              |
+| [CodeDay STL (Not confirmed)](http://codeday.org/stlouis) | 2014-11-08            | #CodeDay              |
